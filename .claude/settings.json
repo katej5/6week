@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(raw/**)",
+      "Bash(rm *)"
+    ],
+    "ask": [
+      "Bash(git commit *)",
+      "Bash(git push *)"
+    ],
+    "allow": [
+      "Edit(out/**)",
+      "WebSearch"
+    ]
+  }
+}

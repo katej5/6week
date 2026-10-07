@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+  <title>한국 AI 기본법의 생성형 AI 결과물 표시 의무 — 누가, 무엇을, 어떻게, 어기면</title>
+  <rect width="960" height="560" fill="#ffffff"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5b6472"/></marker>
+  </defs>
+  <text x="40" y="52" font-size="24" font-weight="700" fill="#1f2937">결과물 표시 의무는 어떻게 작동하나 — 한국 AI 기본법</text>
+  <text x="40" y="82" font-size="15" fill="#5b6472">조문 기준 개념도</text>
+
+  <text x="40" y="128" font-size="15" font-weight="700" fill="#1d4ed8">의무</text>
+  <g font-size="15" fill="#1f2937">
+    <rect x="40" y="140" width="260" height="120" rx="10" fill="#eef3fb" stroke="#1d4ed8"/>
+    <text x="58" y="170" font-weight="700">누가</text>
+    <text x="58" y="198">인공지능사업자</text>
+    <text x="58" y="222" font-size="13" fill="#5b6472">개발사업자 · 이용사업자</text>
+    <text x="58" y="244" font-size="13" fill="#5b6472">법 제2조 제7호</text>
+
+    <rect x="350" y="140" width="260" height="120" rx="10" fill="#eef3fb" stroke="#1d4ed8"/>
+    <text x="368" y="170" font-weight="700">무엇을</text>
+    <text x="368" y="198">생성형 AI가 만든</text>
+    <text x="368" y="220">결과물임을 표시</text>
+    <text x="368" y="244" font-size="13" fill="#5b6472">법 제31조 제2항</text>
+
+    <rect x="660" y="140" width="260" height="120" rx="10" fill="#eef3fb" stroke="#1d4ed8"/>
+    <text x="678" y="170" font-weight="700">어떻게</text>
+    <text x="678" y="198">사람이 알아보는 방법, 또는</text>
+    <text x="678" y="220">기계 판독 + 안내 1회 이상</text>
+    <text x="678" y="244" font-size="13" fill="#5b6472">시행령 제23조 제2항</text>
+  </g>
+  <line x1="300" y1="200" x2="346" y2="200" stroke="#5b6472" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="610" y1="200" x2="656" y2="200" stroke="#5b6472" stroke-width="2" marker-end="url(#a)"/>
+
+  <text x="40" y="318" font-size="15" font-weight="700" fill="#b45309">표시하지 않으면</text>
+  <g font-size="15" fill="#1f2937">
+    <rect x="40" y="330" width="260" height="100" rx="10" fill="#fdf4e7" stroke="#b45309"/>
+    <text x="58" y="362" font-weight="700">사실조사</text>
+    <text x="58" y="388" font-size="14">자료 제출 · 현장 조사</text>
+    <text x="58" y="412" font-size="13" fill="#5b6472">법 제40조 제1항</text>
+
+    <rect x="350" y="330" width="260" height="100" rx="10" fill="#fdf4e7" stroke="#b45309"/>
+    <text x="368" y="362" font-weight="700">중지 · 시정 명령</text>
+    <text x="368" y="388" font-size="14">위반이 인정되면</text>
+    <text x="368" y="412" font-size="13" fill="#5b6472">법 제40조 제3항</text>
+
+    <rect x="660" y="330" width="260" height="100" rx="10" fill="#fdf4e7" stroke="#b45309"/>
+    <text x="678" y="362" font-weight="700">과태료 3천만 원 이하</text>
+    <text x="678" y="388" font-size="14">명령을 따르지 않을 때</text>
+    <text x="678" y="412" font-size="13" fill="#5b6472">법 제43조 제1항 제3호</text>
+  </g>
+  <line x1="300" y1="380" x2="346" y2="380" stroke="#5b6472" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="610" y1="380" x2="656" y2="380" stroke="#5b6472" stroke-width="2" marker-end="url(#a)"/>
+
+  <text x="40" y="472" font-size="14" fill="#1f2937">• 이용자(AI 제품 · 서비스를 제공받는 자)는 법 제2조 제8호에 따로 정의 — 표시 의무 조항의 주어는 인공지능사업자</text>
+  <text x="40" y="496" font-size="14" fill="#1f2937">• 사전 고지(제31조 제1항)를 하지 않은 경우는 과태료 조항(제43조 제1항 제1호)에 바로 들어 있음</text>
+  <text x="40" y="534" font-size="12" fill="#5b6472">출처: [1] 「인공지능 발전과 신뢰 기반 조성 등에 관한 기본법」 제2조 · 제31조 · 제40조 · 제43조 · [2] 같은 법 시행령 제23조 — 열람 2026-10-06</text>
+</svg>
